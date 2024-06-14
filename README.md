@@ -10,6 +10,7 @@
 1. Require an OpenAI API Key.
 2. Generate Gmail App Password for email to be used.
 3. Have access to Google Cloud Console.
+4. Add the email address and app password into the .env file 
    
 # Google Cloud Console
 1. Go to Google Cloud Console and enable Google Forms API and Google Drive API for a new project.
