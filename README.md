@@ -38,3 +38,8 @@
 3. Replace the gmail address and gmail app password in the .env
 4. streamlit run evaluate_performance.py
 5. The emails will be sent to the qualified canddiates.
+
+# Note
+For running in github codespaces use this command python -m streamlit run your_script.py
+
+   
